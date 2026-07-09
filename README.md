@@ -8,82 +8,100 @@ I enjoy working across the stack—from frontend interfaces to backend services,
 
 ## What I work with
 
+## Technologies
+
+### Languages
+
+- TypeScript
+- Go
+- SQL
+
 ### Frontend
 
 - React
 - Next.js
 - React Native
-- TypeScript
+- TanStack Start
 - Tailwind CSS
-- Vue.js
 
-### Backend & Systems
+### Backend
 
 - Node.js
+- Hono
 - Express
-- Go
 - PostgreSQL
+- Turso
 - Supabase
 
-### Systems & Infrastructure
+### Real-Time & Networking
 
-- Git & GitHub
 - WebRTC
 - WebSockets
-- Progressive Web Apps
-- Electron
+- Server-Sent Events (SSE)
+
+### Cloud & Infrastructure
+
+- Cloudflare Workers
+- Cloudflare R2
+- Upstash Redis
 - Capacitor
+- Electron
+- Git & GitHub
 
 ## Featured Projects
 
-### Airframe (In Progress)
+### Airframe (Open Source • In Progress)
 
-An open-source real-time media transport platform designed around layered architecture.
+A layered, transport-agnostic media platform for building real-time capture, streaming, and remote camera workflows.
 
-Current focus:
+Current work includes:
 
-- WebRTC streaming
 - Local device discovery
-- Real-time diagnostics
-- Transport abstraction
-- Multi-device architecture
-- Desktop receiver
+- WebRTC media transport
 - Android capture application
+- Desktop receiver
+- Network diagnostics
+- Modular transport abstraction
 
-Future vision:
+Long-term vision:
 
-- Multiple transport layers
-- Plugin SDK
-- Remote capture
-- Intelligent routing
+- Multiple transport implementations
+- Remote capture orchestration
+- Plugin ecosystem
+- AI-assisted media workflows
 
 ### StreamBible
 
-An open-source, offline-first Bible presentation platform built for churches.
+An open-source, offline-first presentation platform built for churches.
 
-Features include:
+Highlights:
 
-- Offline-first architecture
-- Real-time synchronization
+- Offline-first synchronization
 - WebRTC peer-to-peer networking
-- WebSocket failover
 - OBS Studio integration
-- Desktop and Android support
-- Intelligent caching for high performance
+- Desktop & Android support
+- Intelligent caching
 
 Repository:
 https://github.com/Desmond09-spec/streambible
 
 ---
 
-## Currently Exploring
+## Interests
 
 - Distributed systems
-- DevOps
-- Cloud-native architecture
+- Edge computing
+- Local-first software
 - Real-time media systems
-- Transport protocols
+- Networking protocols
+- DevOps
 - Go
+
+
+## Engineering Philosophy
+
+I enjoy designing software where the architecture does the heavy lifting. Good systems are modular, observable, resilient, and evolve without requiring complete rewrites.
+
 
 ## Let's Connect
 
