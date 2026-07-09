@@ -1,6 +1,6 @@
 # Hi, I'm Daniel Akanmu 👋
 
-I'm a Full Stack Developer from Nigeria who enjoys designing software that is fast, resilient, and cost-efficient.
+I'm a Software Engineer from Nigeria who enjoys designing software that is fast, resilient, and cost-efficient.
 
 I'm especially interested in local-first and distributed architectures that reduce operational costs while delivering excellent user experiences. Whether I'm building web, desktop, or mobile applications, I look for practical engineering solutions that maximize reliability without requiring expensive infrastructure.
 
@@ -9,6 +9,7 @@ I enjoy working across the stack—from frontend interfaces to backend services,
 ## What I work with
 
 ### Frontend
+
 - React
 - Next.js
 - React Native
@@ -16,13 +17,16 @@ I enjoy working across the stack—from frontend interfaces to backend services,
 - Tailwind CSS
 - Vue.js
 
-### Backend
+### Backend & Systems
+
 - Node.js
 - Express
-- Supabase
+- Go
 - PostgreSQL
+- Supabase
 
-### Infrastructure & Networking
+### Systems & Infrastructure
+
 - Git & GitHub
 - WebRTC
 - WebSockets
@@ -30,7 +34,28 @@ I enjoy working across the stack—from frontend interfaces to backend services,
 - Electron
 - Capacitor
 
-## Featured Project
+## Featured Projects
+
+### Airframe (In Progress)
+
+An open-source real-time media transport platform designed around layered architecture.
+
+Current focus:
+
+- WebRTC streaming
+- Local device discovery
+- Real-time diagnostics
+- Transport abstraction
+- Multi-device architecture
+- Desktop receiver
+- Android capture application
+
+Future vision:
+
+- Multiple transport layers
+- Plugin SDK
+- Remote capture
+- Intelligent routing
 
 ### StreamBible
 
@@ -51,12 +76,14 @@ https://github.com/Desmond09-spec/streambible
 
 ---
 
-## Currently Learning
+## Currently Exploring
 
 - Distributed systems
 - DevOps
-- Cloud infrastructure
-- Networking
+- Cloud-native architecture
+- Real-time media systems
+- Transport protocols
+- Go
 
 ## Let's Connect
 
